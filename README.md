@@ -6,5 +6,13 @@ Projeto de Academia que estou começando a criar. Abaixo tem um mind map que uti
 
 ## Mind Map
 
-![image](https://github.com/ThomasDixini/AuthenticationPage/assets/83423919/c0ae08e5-8363-4124-b41b-96379e0387d2)
+![image](https://github.com/ThomasDixini/Academia/assets/83423919/d193fc3e-1a19-4479-a90e-431fd37fe00f)
+
+
+
+## Referência
+
+ - [Mind Map](https://mm.tt/app/map/3101880598?t=nYk8IN6GtD)
+ - [Figma Jamboard](https://www.figma.com/file/1kHVZhnB75AMEsc48sfc2T/Untitled?type=whiteboard&node-id=0%3A1&t=f2BYbUJ471Fy6ZDH-1)
+
 
